@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+}
+
+#container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#githubAuth {
+  background-color: white;
+  position: relative;
+  display: block;
+  height: 102px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 7px;
+  padding: 0px;
+  margin: 0 auto;
+}
+
+#githubImg {
+  height: 100px;
+  width: auto;
+}
+
+#authHeader {
+  color: white;
+  display: block;
+  margin-top: 20px;
+}
